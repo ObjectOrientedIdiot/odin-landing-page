@@ -244,7 +244,7 @@ ul.headerlinks a, .introcard p {
 }
 
 .footer {
-    box-sizing: content-box;
+    box-sizing: border-box;
     width: 100%;
     font-size: 18px;
     font-style: italic;
