@@ -1,2 +1,2 @@
 # odin-landing-page
-landing page
+haha cringe landing page go brr
