@@ -89,8 +89,8 @@ ul.headerlinks a, .introcard p {
 
 .imagecard {
     align-self: stretch;
-    width: auto;
-    min-width: 60vh;
+    height: auto;
+    min-width: 50%;
     flex: 1 1 0;
     object-fit: cover;
 }
